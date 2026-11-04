@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+uci_diabetes.zip
+*.joblib
